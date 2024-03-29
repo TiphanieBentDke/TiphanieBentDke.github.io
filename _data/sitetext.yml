@@ -33,30 +33,30 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Client Journeys"
-    text: "discover Taylored strategies based on your goals & needs"
+    text: "Discover taylored strategies based on your goals & needs"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Personal Evolution"
-    text: "From Alsace to Canton Zurich "
+    text: "From Siberian Utility Stores to AI Governance. At the heart of winter where will & resilience is revealed."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Born in France. 5th generation of business men and women "
+      - title: "5th generation of business men and women "
         year: "1999"
         desc: "Growing with the role model of my grand father who developed engineering business across france, Usa, China and Russia."
         image: assets/img/team/tiphanie profil.jpg
         alt:
-      - title: " Studying Artifical Intelligence and Data Science at Maastricht University - Netherlands "
+      - title: " Artifical Intelligence and Data Science at Maastricht University - Netherlands "
         year: "2019-2024"
         desc: "Passionned by the natural langauage processing, I acquired the tools and visions to solve complexe problem at scale"
         image: assets/img/timeline/um.png
         alt:
       - title: " Bachelors in Public and Private Law at Paris 1 Sorbonne University"
         year: "2020-2024"
-        desc: "I sick to protect intellectual property owners whoever they are : artists, programmers, architects, biologists, singer. I help them turn their knowledge into an asset within the digital universe"
+        desc: "I seek to protect intellectual property owners whoever they are : artists, programmers, architects, biologists, singer. I help them turn their knowledge into an asset within the digital universe"
         image: assets/img/timeline/sorbonne.png
         alt: 
       - title: "Strategic Projects at SIX Group, the Swiss National Exchange"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My story"
-    body: " I am highly creative, precice and delivery focused person. I analyse business processes to enhance value for you and society. In my spare time I practice aviation which is a risk management sport"
+    body: " An highly creative, precice and delivery focused person. I analyse business processes to enhance value for you and society. In my spare time I practice aviation which is a risk management sport"
     section: about
 
   clients:
