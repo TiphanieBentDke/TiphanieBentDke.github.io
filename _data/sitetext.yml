@@ -94,7 +94,7 @@ en: &DEFAULT_EN
 
   team:
     title: "One Woman Business. for Now"
-    text: "Reach out for collabs if you are driven by curiosity & delivering excellence."
+    text: "Are you driven by curiosity & delivering excellence. reach out for collabs."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -112,7 +112,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "partner@tiphanie-bent.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
