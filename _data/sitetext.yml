@@ -59,11 +59,6 @@ en: &DEFAULT_EN
         desc: "I sick to protect intellectual property owners whoever they are : artists, programmers, architects, biologists, singer. I help them turn their knowledge into an asset within the digital universe"
         image: assets/img/timeline/sorbonne.png
         alt: 
-      - title: " Big Data Governance at Credit Suisse "
-      year: "2021-2022"
-      desc: ""
-      image: assets/img/timeline/sorbonne.png
-      alt: 
       - title: "Strategic Projects at SIX Group, the Swiss National Exchange"
         year: "2022-2024"
         desc: "I support the Corporate Developement across Business Units to create value through Artificial Intelligence applications, AI Governance and Business Strategy."
