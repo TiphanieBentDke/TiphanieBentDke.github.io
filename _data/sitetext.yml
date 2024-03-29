@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to the house of R&D !
+    title: Lets talk about Taylored IT Solutions !
     text: It's Nice To Meet You
     button: Get started
     buttonlink: "#services"
@@ -22,18 +22,18 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "AI Governance"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "We have a responsability to go beyond the present time and our simple self to assess and control the developement of AI systems. I propose concrete solutions to that challenge."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Contract Law"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Contract Law & Intellectual Property Management"
+        desc: "<Knowledge is a great asset. For you I will identify and protect it by using legal processes : contract, patent, industrial secret, design etc.."
         icon: fas fa-laptop
       - title: "[Development](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Blog"
+    text: "Learn about my latest experiences"
     section: portfolio
     closebutton: "Close Project"
 
@@ -44,24 +44,24 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Born in France. 5th generation of business men and women "
+        year: "1999"
+        desc: "I grew up amongst the stories of my grand father expending engineering business across france, Usa, China and Russia. He spoke 5 language was kind and brave. My role model."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: " Studying Artifical Intelligence and Data Science at Maastricht University - Netherlands "
+        year: "2019"
+        desc: "I am passionned by the natural langauage processing, along those studies I acquired the tools and visions to solve coplexe problem in a team"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: " Bachelors in Public and Private Law at Paris 1 Sorbonne University"
+        year: "2020"
+        desc: "I sick to protect intellectual property owners whoever they are : artists, programmers, architects, biologists, singer. I help them turn their knowledge into an asset within the digital universe"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Strategic Projects at SIX Group, the Swiss National Exchnage"
+        year: "2022-2023"
+        desc: "I support the Corporate Developement across Business Units to create value through Artificial Intelligence applications, AI Governance and Business Strategy."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -69,8 +69,8 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "About Me"
+    text: "My story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
