@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "AI Governance"
-        desc: "We have a responsability to go beyond the present time and our simple self to assess and control the developement of AI systems. I propose concrete solutions to that challenge."
+        desc: "Concrete solutions to fullfil the a responsability to go beyond the present time and our simple self to assess and control the developement of AI systems. Compliance with European AI Act."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Contract Law & Intellectual Property Management"
-        desc: "<Knowledge is a great asset. For you I will identify and protect it by using legal processes : contract, patent, industrial secret, design etc.."
+      - title: "Intellectual Property Management"
+        desc: " Are you a creator ? An artist, a programmer, an architect or a biologist ? Identify and protect your immaterial intellectual assets it by using legal processes : contract, patent, industrial secret, design etc.."
         icon: fas fa-laptop
       - title: "[Development](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
