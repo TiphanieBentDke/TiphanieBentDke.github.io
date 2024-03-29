@@ -33,25 +33,25 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Client Journeys"
-    text: "Taylored strategies based on your goals & needs"
+    text: "discover Taylored strategies based on your goals & needs"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "why AI Governance ? Why Intellectual Property ?"
+    title: "Personal Evolution"
+    text: "From Alsace to Canton Zurich "
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Born in France. 5th generation of business men and women "
         year: "1999"
-        desc: "I grew up amongst the stories of my grand father expending engineering business across france, Usa, China and Russia. He spoke 5 language was kind and brave. My role model."
+        desc: "Growing with the role model of my grand father who developed engineering business across france, Usa, China and Russia."
         image: assets/img/team/tiphanie profil.jpg
         alt:
       - title: " Studying Artifical Intelligence and Data Science at Maastricht University - Netherlands "
         year: "2019-2024"
-        desc: "I am passionned by the natural langauage processing, along those studies I acquired the tools and visions to solve coplexe problem in a team"
+        desc: "Passionned by the natural langauage processing, I acquired the tools and visions to solve complexe problem at scale"
         image: assets/img/timeline/um.png
         alt:
       - title: " Bachelors in Public and Private Law at Paris 1 Sorbonne University"
@@ -66,12 +66,12 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Open <br> for <br> Business !"
 
   about:
     title: "About Me"
     text: "My story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: " I am highly creative, precice and delivery focused person. I analyse business processes to enhance value for you and society. In my spare time I practice aviation which is a risk management sport"
     section: about
 
   clients:
