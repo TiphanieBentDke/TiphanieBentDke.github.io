@@ -44,24 +44,24 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "5th generation of business men and women "
+      - title: " First Meeting & Diagnostic "
         year: "1999"
-        desc: "Growing with the role model of my grand father who developed engineering business across france, Usa, China and Russia."
+        desc: " Trust based relationship starts with a meeting to evaluate if our offer can match your needs. Otherwise benefit of refferal within our partner network"
         image: assets/img/team/tiphanie profil.jpg
         alt:
-      - title: " Artifical Intelligence and Data Science at Maastricht University - Netherlands "
+      - title: " Mapping your business"
         year: "2019-2024"
-        desc: "Passionned by the natural langauage processing, I acquired the tools and visions to solve complexe problem at scale"
+        desc: "Analyse the processus in place, existing riks and available opportunities"
         image: assets/img/timeline/um.png
         alt:
-      - title: " Bachelors in Public and Private Law at Paris 1 Sorbonne University"
+      - title: "Building short, medium and long term objectives"
         year: "2020-2024"
-        desc: "I seek to protect intellectual property owners whoever they are : artists, programmers, architects, biologists, singer. I help them turn their knowledge into an asset within the digital universe"
+        desc: "Market specific recommendations, and service execution with measurable impact."
         image: assets/img/timeline/sorbonne.png
         alt: 
-      - title: "Strategic Projects at SIX Group, the Swiss National Exchange"
+      - title: "Expand, Sell, Start Again "
         year: "2022-2024"
-        desc: "I support the Corporate Developement across Business Units to create value through Artificial Intelligence applications, AI Governance and Business Strategy."
+        desc: "Some want to scale up Some want to retire safely and insure their legacy will be safe."
         image: assets/img/timeline/six.png
         alt:
         # you can enforce the alignment
