@@ -47,22 +47,22 @@ en: &DEFAULT_EN
       - title: " First Meeting & Diagnostic "
         year: "1999"
         desc: " Trust based relationship starts with a meeting to evaluate if our offer can match your needs. Otherwise benefit of refferal within our partner network"
-        image: assets/img/team/tiphanie profil.jpg
+        image: assets/img/team/
         alt:
       - title: " Mapping your business"
         year: "2019-2024"
         desc: "Analyse the processus in place, existing riks and available opportunities"
-        image: assets/img/timeline/um.png
+        image: assets/img/timeline/
         alt:
       - title: "Building short, medium and long term objectives"
         year: "2020-2024"
         desc: "Market specific recommendations, and service execution with measurable impact."
-        image: assets/img/timeline/sorbonne.png
+        image: assets/img/timeline/
         alt: 
       - title: "Expand, Sell, Start Again "
         year: "2022-2024"
         desc: "Some want to scale up Some want to retire safely and insure their legacy will be safe."
-        image: assets/img/timeline/six.png
+        image: assets/img/timeline/
         alt:
         # you can enforce the alignment
         align: right
