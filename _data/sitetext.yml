@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Lets talk about Taylored IT Solutions !
-    text: It's Nice To Meet You
+    title: Intellectual Property Management in the AI Era
+    text: by an AI expert
     button: Get started
     buttonlink: "#services"
 
@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - title: "Born in France. 5th generation of business men and women "
         year: "1999"
         desc: "I grew up amongst the stories of my grand father expending engineering business across france, Usa, China and Russia. He spoke 5 language was kind and brave. My role model."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/team/tiphanie profil.jpg
         alt:
       - title: " Studying Artifical Intelligence and Data Science at Maastricht University - Netherlands "
         year: "2019-2024"
@@ -58,7 +58,13 @@ en: &DEFAULT_EN
         year: "2020-2024"
         desc: "I sick to protect intellectual property owners whoever they are : artists, programmers, architects, biologists, singer. I help them turn their knowledge into an asset within the digital universe"
         image: assets/img/timeline/sorbonne.png
-        alt: image alt text
+        alt: 
+      - title: " Big Data Governance at Credit Suisse "
+      year: "2021-2022"
+      desc: ""
+      image: assets/img/timeline/sorbonne.png
+      alt: 
+        
       - title: "Strategic Projects at SIX Group, the Swiss National Exchange"
         year: "2022-2024"
         desc: "I support the Corporate Developement across Business Units to create value through Artificial Intelligence applications, AI Governance and Business Strategy."
@@ -93,14 +99,14 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "One Woman Business. for Now"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Tiphanie Bent"
         role: "AI Governance & Intellectual Property Strategist"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/tiphanie profil.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
