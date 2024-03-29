@@ -23,7 +23,7 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Sapiensnout Profile"
+    - title: "Sapienslink Profile"
       url: https://sapienslink.com/user_profile?id=2
 en-US:
   <<: *DEFAULT_EN
