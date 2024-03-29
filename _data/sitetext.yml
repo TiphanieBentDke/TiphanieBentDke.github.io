@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "why AI Governance ? Why Intellectual Property ?"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -50,17 +50,17 @@ en: &DEFAULT_EN
         image: assets/img/timeline/1.jpg
         alt:
       - title: " Studying Artifical Intelligence and Data Science at Maastricht University - Netherlands "
-        year: "2019"
+        year: "2019-2024"
         desc: "I am passionned by the natural langauage processing, along those studies I acquired the tools and visions to solve coplexe problem in a team"
         image: assets/img/timeline/um.png
         alt:
       - title: " Bachelors in Public and Private Law at Paris 1 Sorbonne University"
-        year: "2020"
+        year: "2020-2024"
         desc: "I sick to protect intellectual property owners whoever they are : artists, programmers, architects, biologists, singer. I help them turn their knowledge into an asset within the digital universe"
         image: assets/img/timeline/sorbonne.png
         alt: image alt text
       - title: "Strategic Projects at SIX Group, the Swiss National Exchange"
-        year: "2022-2023"
+        year: "2022-2024"
         desc: "I support the Corporate Developement across Business Units to create value through Artificial Intelligence applications, AI Governance and Business Strategy."
         image: assets/img/timeline/six.png
         alt:
