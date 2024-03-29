@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Blog"
-    text: "Learn about my latest experiences"
+    title: "Client Journeys"
+    text: "Taylored strategies based on your goals & needs"
     section: portfolio
     closebutton: "Close Project"
 
