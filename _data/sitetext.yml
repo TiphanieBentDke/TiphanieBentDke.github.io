@@ -64,7 +64,6 @@ en: &DEFAULT_EN
       desc: ""
       image: assets/img/timeline/sorbonne.png
       alt: 
-        
       - title: "Strategic Projects at SIX Group, the Swiss National Exchange"
         year: "2022-2024"
         desc: "I support the Corporate Developement across Business Units to create value through Artificial Intelligence applications, AI Governance and Business Strategy."
