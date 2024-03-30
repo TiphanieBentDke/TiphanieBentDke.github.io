@@ -7,7 +7,6 @@
   position: relative; /* Ensure the stacking context is relative */^
   z-index: 1; /* Ensures the circle is behind the image */
 }
-
 .service-icon {
   position: relative; /* Needed to use z-index */
   z-index: 2; /* Higher z-index means it will be placed above other elements in the stack */
