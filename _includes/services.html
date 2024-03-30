@@ -13,15 +13,15 @@
       </div>
 	  
       <div class="row text-center">
-	  {% for service in site.data.sitetext[site.locale].services.list %}
-        <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <img src="{{ service.icon }}" alt="{{ service.title }}">
-          </span>
-          <h4 class="service-heading">{{ service.title | markdownify }}</h4>
-          {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
-        </div>
-	  {% endfor %}
+        {% for service in site.data.sitetext[site.locale].services.list %}
+          <div class="col-md-4 d-flex flex-column justify-content-center align-items-center"> <!-- Added classes here -->
+            <span class="fa-stack fa-4x">
+              <img src="{{ service.icon }}" alt="{{ service.title }}">
+            </span>
+            <h4 class="service-heading">{{ service.title | markdownify }}</h4>
+            {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
+          </div>
+        {% endfor %}
       </div>
 	  
     </div>
