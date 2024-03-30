@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - title: " First Meeting & Diagnostic "
         year: "Step 1"
         desc: " Trust based relationship starts with a meeting to evaluate if our offer can match your needs. Otherwise benefit of refferal within our partner network"
-        image: assets/img/timeline/1.png
+        image: assets/img/timeline/4.png
         alt:
       - title: " Mapping your business"
         year: "Step 2"
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
       - title: "Fine tuning until you are satisfied "
         year: "Step 4"
         desc: "Some want to scale up Some want to retire safely and insure their legacy will be safe."
-        image: assets/img/timeline/4.png
+        image: assets/img/timeline/1.png
         alt:
         # you can enforce the alignment
         align: right
