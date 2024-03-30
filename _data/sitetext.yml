@@ -45,22 +45,22 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: " First Meeting & Diagnostic "
-        year: "1999"
+        year: "Step 1"
         desc: " Trust based relationship starts with a meeting to evaluate if our offer can match your needs. Otherwise benefit of refferal within our partner network"
         image: assets/img/timeline/QAA.png
         alt:
       - title: " Mapping your business"
-        year: "2019-2024"
+        year: "Step 2"
         desc: "Analyse the processus in place, existing riks and available opportunities"
         image: assets/img/timeline/map.png
         alt:
       - title: "Building short, medium and long term objectives"
-        year: "2020-2024"
+        year: "Step 3"
         desc: "Market specific recommendations, and service execution with measurable impact."
         image: assets/img/timeline/
         alt: 
-      - title: "Expand, Sell, Start Again "
-        year: "2022-2024"
+      - title: "We optimize until you are satisfied "
+        year: "Step 4"
         desc: "Some want to scale up Some want to retire safely and insure their legacy will be safe."
         image: assets/img/timeline/
         alt:
