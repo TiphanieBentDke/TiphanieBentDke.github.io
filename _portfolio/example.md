@@ -5,8 +5,8 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/clients/tech.jpg
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Programmers
+subtitle: For the geeks, the nerds the midnigh to 3 am coders. for the dreamers and the builders.
 image: assets/img/clients/tech.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
