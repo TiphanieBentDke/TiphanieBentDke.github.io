@@ -15,8 +15,8 @@
       <div class="row text-center">
         {% for service in site.data.sitetext[site.locale].services.list %}
             <div class="col-md-4">
-              <span class="fa-stack fa-4x">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+             <!-- <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
                 <img src="{{ service.icon }}" alt="{{ service.title }}">
               </span>
              <!-- <h4 class="service-heading">{{ service.title | markdownify }}</h4>
@@ -43,8 +43,8 @@
     <div class="row text-center">
   {% for service in site.data.sitetext.services.list %}
       <div class="col-md-4">
-        <span class="fa-stack fa-4x">
-          <i class="fas fa-circle fa-stack-2x text-primary"></i>
+        <!--<span class="fa-stack fa-4x">
+          <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
           <!-- <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>-->
           <img src="{{ service.icon }}" alt="{{ service.title }}">
         </span>
