@@ -1,18 +1,23 @@
 .fa-stack {
   display: inline-block;
   position: relative;
-  width: 100%; /* Ensure that the stack spans the entire width */
+  width: 70%; /* Ensure that the stack spans the entire width */
 }
 
 .fa-stack .fa-inverse {
   position: absolute;
   top: 50%;
-  left: 65%;
+  left: 75%;
   transform: translate(-50%, -50%);
 }
 
 .fa-stack img.service-icon {
   display: block;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
+}
+
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
 }
