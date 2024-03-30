@@ -2,4 +2,13 @@
 .service-heading {
   margin: 15px 0;
   text-transform: none;
+  .timeline-image {
+    position: relative;
+    z-index: 2; /* Cela garantit que l'image apparaît devant le panel */
+  }
+  
+  .timeline-panel {
+    position: relative;
+    z-index: 1; /* Assure que le panel reste en arrière-plan */
+  }
 }
