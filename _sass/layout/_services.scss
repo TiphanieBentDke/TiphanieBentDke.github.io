@@ -1,20 +1,20 @@
-// Styling for the services section
-.service-heading {
-  margin: 15px 0;
-  text-transform: none;
-}
-
 .fa-stack {
-  position: relative; /* Ensure the stacking context is relative */
-  z-index: 1; /* Ensures the circle is behind the image */
+  display: inline-block;
+  position: relative;
+  width: 100%; /* Ensure that the stack spans the entire width */
 }
 
-.service-icon {
-  position: relative; /* Needed to use z-index */
-  z-index: 2; /* Higher z-index means it will be placed above other elements in the stack */
+.fa-stack .fa-inverse {
+  position: absolute;
+  top: 50%;
+  left: 65%;
+  transform: translate(-50%, -50%);
 }
 
-.fa-circle {
-  position: relative; /* This might already be implicitly set by Font Awesome's CSS */
-  z-index: 1; /* Ensures the circle is behind the image */
+.fa-stack img.service-icon {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
+
+
