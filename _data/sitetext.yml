@@ -47,12 +47,12 @@ en: &DEFAULT_EN
       - title: " First Meeting & Diagnostic "
         year: "1999"
         desc: " Trust based relationship starts with a meeting to evaluate if our offer can match your needs. Otherwise benefit of refferal within our partner network"
-        image: assets/img/team/
+        image: assets/img/timeline/dialogue.png
         alt:
       - title: " Mapping your business"
         year: "2019-2024"
         desc: "Analyse the processus in place, existing riks and available opportunities"
-        image: assets/img/timeline/
+        image: assets/img/timeline/map.png
         alt:
       - title: "Building short, medium and long term objectives"
         year: "2020-2024"
