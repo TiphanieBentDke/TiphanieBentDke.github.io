@@ -59,10 +59,10 @@ en: &DEFAULT_EN
         desc: "Market specific recommendations, and service execution with measurable impact."
         image: assets/img/timeline/
         alt: 
-      - title: "We optimize until you are satisfied "
+      - title: "Fine tuning until you are satisfied "
         year: "Step 4"
         desc: "Some want to scale up Some want to retire safely and insure their legacy will be safe."
-        image: assets/img/timeline/
+        image: assets/img/portfolio/test2.png
         alt:
         # you can enforce the alignment
         align: right
