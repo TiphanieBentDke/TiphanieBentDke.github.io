@@ -31,6 +31,7 @@
       width: 100%;
       padding: 0 20px 0 100px;
       text-align: left;
+      z-index: 1;
       &:before {
         right: auto;
         left: -15px;
@@ -46,7 +47,7 @@
     }
     .timeline-image {
       position: absolute;
-      z-index: 100;
+      z-index: 2;
       left: 0;
       width: 80px;
       height: 80px;
