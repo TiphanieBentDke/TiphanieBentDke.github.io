@@ -23,8 +23,11 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Sapienslink Profile"
+    - title: "Sapienslink"
       url: https://sapienslink.com/user_profile?id=2
+    - title: "Blog"
+    url: https://tiphanie-bent.com/blog"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
