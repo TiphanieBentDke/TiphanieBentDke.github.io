@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Concrete solutions to fullfil the a responsability to go beyond the present time and our simple self to assess and control the developement of AI systems. Compliance with European AI Act."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Intellectual Property Management"
-        desc: " Are you a creator ? An artist, a programmer, an architect or a biologist ? Identify and protect your immaterial intellectual assets by using legal processes : contract, patent, industrial secret, design etc.."
+        desc: " Are you a creator ? An artist, a programmer, an architect or a biologist ? Identify and protect your immaterial intellectual assets by using legal processes : contract, patent, industrial secret, design etc.. From Siberian Utility Stores to AI Governance. At the heart of winter where will & resilience is revealed"
         icon: fas fa-laptop
       - title: "[Development](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
@@ -38,8 +38,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Personal Evolution"
-    text: "From Siberian Utility Stores to AI Governance. At the heart of winter where will & resilience is revealed."
+    title: "Because Your Genius Must be Rewarded"
+    text: "."
     section: timeline
     # left is the default
     #start_align: "left"
