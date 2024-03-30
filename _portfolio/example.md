@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Programmers
   subtitle: Computer Scientists
-  thumbnail: assets/img/portfolio/test.png
+  thumbnail: assets/img/clients/tech.png
   
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/clients/vendetta.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/clients/tech.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
