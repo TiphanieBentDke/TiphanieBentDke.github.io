@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: "/assets/img/timeline/test1.png" #find more at https://fontawesome.com/icons
       - title: "Intellectual Property Management"
         desc: " Are you a creator ? An artist, a programmer, an architect or a biologist ? Identify and protect your immaterial intellectual assets by using legal processes : contract, patent, industrial secret, design etc.. From Siberian Utility Stores to AI Governance. At the heart of winter where will & resilience is revealed"
-        icon: "/assets/img/timeline/QA.png"
+        icon: "/assets/img/timeline/test2.png"
       - title: "[Development](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: "/assets/img/timeline/target.png"
+        icon: "/assets/img/timeline/test2.png"
 
   portfolio:
     title: "Client Journeys"
