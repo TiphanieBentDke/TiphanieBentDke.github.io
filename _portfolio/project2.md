@@ -6,7 +6,7 @@ alt: Keep Exploring
 
 caption:
   title: Artists Biologist
-  subtitle: You create new species of plant, original books, songs etc
+  subtitle: Bla!
   thumbnail: assets/img/clients/bio.jpg
 ---
 

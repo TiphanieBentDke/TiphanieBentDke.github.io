@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Client Journeys"
-    text: "Discover taylored strategies based on your goals & needs"
+    text: "Discover tailored strategies based on your goals & needs"
     section: portfolio
     closebutton: "Close Project"
 

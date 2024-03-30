@@ -138,3 +138,9 @@
     }
   }
 }
+
+.portfolio-item .img-fluid {
+  width: 100%; /* Ensures the image fills its container */
+  height: 200px; /* You can adjust this value as needed */
+  object-fit: cover; /* Ensures the image covers the entire container */
+}
