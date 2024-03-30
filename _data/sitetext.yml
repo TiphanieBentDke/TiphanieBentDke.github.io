@@ -27,8 +27,8 @@ en: &DEFAULT_EN
       - title: "Intellectual Property Management"
         desc: " Are you a creator ? An artist, a programmer, an architect or a biologist ? Identify and protect your immaterial intellectual assets by using legal processes : contract, patent, industrial secret, design etc.. From Siberian Utility Stores to AI Governance. At the heart of winter where will & resilience is revealed"
         icon: "/assets/img/service/special.png"
-      - title: "[Development](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Responsible Business Developement"
+        desc: "Data privacy, environmental social governance for a positive global impact"
         icon: "/assets/img/portfolio/test4.png"
 
   portfolio:
