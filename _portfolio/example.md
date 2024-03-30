@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Programmer
+  title: Programmers
   subtitle: Computer Scientists
   thumbnail: https://place-hold.it/400x300
   
