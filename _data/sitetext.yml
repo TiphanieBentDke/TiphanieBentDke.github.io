@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "AI Governance"
         desc: "Concrete solutions to fullfil the a responsability to go beyond the present time and our simple self to assess and control the developement of AI systems. Compliance with European AI Act."
-        icon: "/assets/img/portfolio/test2.png" #find more at https://fontawesome.com/icons
+        icon: "/assets/img/service/security.png" #find more at https://fontawesome.com/icons
       - title: "Intellectual Property Management"
         desc: " Are you a creator ? An artist, a programmer, an architect or a biologist ? Identify and protect your immaterial intellectual assets by using legal processes : contract, patent, industrial secret, design etc.. From Siberian Utility Stores to AI Governance. At the heart of winter where will & resilience is revealed"
-        icon: "/assets/img/portfolio/test3.png"
+        icon: "/assets/img/service/special.png"
       - title: "[Development](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: "/assets/img/portfolio/test4.png"
