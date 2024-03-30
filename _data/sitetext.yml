@@ -95,7 +95,7 @@ en: &DEFAULT_EN
   team:
     title: "One Woman Business. for Now"
     text: "Are you driven by curiosity & delivering excellence. reach out for collabs."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: "Our network of cross disciplinary partners enable us to deliver the best value for you to grow"
     section: team
     people:
       - name: "Tiphanie Bent"
