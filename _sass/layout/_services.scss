@@ -2,14 +2,18 @@
 .service-heading {
   margin: 15px 0;
   text-transform: none;
-  
-.service-fas {
-  position: relative; /* Establishes a stacking context */
-  z-index: 2; /* Ensures it's above other content */
+
+.fa-stack {
+  position: relative; /* Ensure the stacking context is relative */
 }
 
 .service-icon {
-  position: relative;
-  z-index: 1; /* Ensures text is below icons if they overlap */
+  position: relative; /* Needed to use z-index */
+  z-index: 2; /* Higher z-index means it will be placed above other elements in the stack */
 }
+.fa-circle {
+  position: relative; /* This might already be implicitly set by Font Awesome's CSS */
+  z-index: 1; /* Ensures the circle is behind the image */
+}
+
 }
