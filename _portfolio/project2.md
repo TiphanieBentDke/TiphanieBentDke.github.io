@@ -1,7 +1,7 @@
 ---
 title: Artists Biologist
 subtitle: You create new species of plant, original books, songs etc
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: assets/img/clients/lion.jpg
 alt: Keep Exploring
 
 caption:

@@ -1,7 +1,7 @@
 ---
 title: Architects
 subtitle: Furniture & House designer
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/clients/archi.jpg
 alt: Shirts on a hanger
 
 caption:
