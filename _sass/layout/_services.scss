@@ -4,7 +4,8 @@
   text-transform: none;
 
 .fa-stack {
-  position: relative; /* Ensure the stacking context is relative */
+  position: relative; /* Ensure the stacking context is relative */^
+  z-index: 1; /* Ensures the circle is behind the image */
 }
 
 .service-icon {
