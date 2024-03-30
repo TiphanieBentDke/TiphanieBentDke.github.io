@@ -1,7 +1,7 @@
 ---
 title: Architects
 subtitle: Furniture & House designer
-image: assets/img/clients/archi.jpg
+image: assets/img/clients/design.jpg
 alt: Shirts on a hanger
 
 caption:
