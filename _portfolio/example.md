@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Programmers
   subtitle: Computer Scientists
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/clients/vendetta.jpg
   
 #what displays when the item is clicked:
 title: Title
