@@ -2,12 +2,12 @@
 .service-heading {
   margin: 15px 0;
   text-transform: none;
-.fa-stack {
+.service-fas {
   position: relative; /* Establishes a stacking context */
   z-index: 2; /* Ensures it's above other content */
 }
 
-.service-heading, .text-muted {
+.service-icon {
   position: relative;
   z-index: 1; /* Ensures text is below icons if they overlap */
 }
